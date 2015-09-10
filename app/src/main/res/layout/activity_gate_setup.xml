@@ -33,21 +33,22 @@
             android:text="Where is your gate?"
             android:id="@+id/textWhere"
             android:textSize="18dp"
-            android:layout_marginRight="10dp" />
+            android:layout_marginRight="20dp" />
 
         <Button
-            android:layout_width="wrap_content"
+            android:layout_width="50dp"
             android:layout_height="wrap_content"
             android:id="@+id/btnHere"
             android:background="@android:drawable/ic_menu_mylocation"
-            android:layout_marginRight="10dp" />
+            android:layout_marginRight="20dp" />
 
         <Button
-            android:layout_width="wrap_content"
+            android:layout_width="50dp"
             android:layout_height="wrap_content"
             android:id="@+id/btnMap"
             android:background="@android:drawable/ic_menu_mapmode"
             android:layout_marginRight="10dp" />
+
     </LinearLayout>
 
     <TextView
