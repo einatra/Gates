@@ -14,7 +14,7 @@ public class GateSetup extends AppCompatActivity {
     }
 
 
-    /// a fucking heAra
+    //hanans new remark
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
