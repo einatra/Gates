@@ -1,4 +1,4 @@
-package com.example.einat.gates;
+package com.example.einat.gates.DB;
 
 /**
  * Created by Einat on 11/09/2015.
